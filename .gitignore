@@ -1,0 +1,12 @@
+.gradle/
+build/
+run/
+config/ghost/
+*.key
+*.secret
+*.log
+hs_err_pid*
+
+work/
+run/
+.idea/
